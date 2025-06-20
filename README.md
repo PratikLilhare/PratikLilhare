@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on machine learning and web development.<br>🤝 I’m looking for help with React.js.<br>🌱 I’m currently learning Javacript and Svelte.js<br>💬 Ask me about Django and Python<br>⚡ Gitlab profile: https://gitlab.com/plilhare<br>📄 One-pager: [Download my one-pager (PDF)](https://drive.google.com/file/d/1F3NmoRIphKqdZ9p74m6Pr55cZkkQ-Joq/view?usp=sharing)
+🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on web development and backend development.<br>🤝 I’m looking for help with React.js.<br>🌱 I’m currently learning Javacript and Svelte.js<br>💬 Ask me about Django and Python<br>⚡ Gitlab profile: https://gitlab.com/plilhare<br>📄 One-pager: [Download my one-pager (PDF)](https://drive.google.com/file/d/1F3NmoRIphKqdZ9p74m6Pr55cZkkQ-Joq/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratiklilhare) 
